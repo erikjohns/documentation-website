@@ -108,6 +108,10 @@
     border-radius: 16px;
 }
 
-.page-content ul {
+.page-content ul, ol {
     margin-left: 20px;
+}
+
+.page-content li {
+    margin-bottom: 10px;
 }
